@@ -37,19 +37,39 @@ I contribute to [OpenWorker](https://github.com/andrewyng/openworker), working o
 
 ## Tech stack
 
-Technologies and tools I use across my projects.
+My toolbox spans apps, services, interactive worlds, and physical devices. These are technologies I use across projects — the mix depends on what I'm building.
 
-| Area | Technologies |
+| Area | Technologies & tools |
 | --- | --- |
-| Native Apple apps | Swift · SwiftUI · iOS · macOS |
-| Web & visualization | TypeScript / JavaScript · Vue · React · Vite · Tailwind CSS · TDesign · Ant Design · Three.js · ECharts |
-| Mini Programs | Native WeChat Mini Programs · uni-app · TDesign Mini Program |
-| Backend & data | Python · FastAPI · Node.js · Express · PHP · MySQL · MongoDB · SQLite · SQLAlchemy · pandas |
-| AI & automation | LLM integration · AI agents · MCP · Python automation |
-| Cross-platform desktop | Tauri / Rust · Wails / Go · Qt / QML / C++ |
-| Embedded & hardware | C / C++ · ESP32 · ESP-IDF · Arduino · KiCad |
-| UAV ecosystem | ArduPilot · QGroundControl · Flight-log analysis |
-| Testing & tooling | Git · pytest · Vitest · Playwright · CMake · Internationalization |
+| Languages | Swift · TypeScript · JavaScript · Python · C / C++ · Rust · Go · PHP · SQL |
+| Apple apps & persistence | SwiftUI · UIKit / AppKit interop · SwiftData · CloudKit · Swift Package Manager |
+| Apple system integrations | HealthKit · WidgetKit · ActivityKit / Live Activities · App Intents · AlarmKit · WeatherKit · MapKit · Core Location · AVFoundation |
+| Web interfaces | Vue · React · Next.js · Vite · Pinia · Tailwind CSS · TDesign · Ant Design |
+| Graphics & visualization | Three.js · WebGL · GLSL shaders · ECharts · Swift Charts · Interactive 3D scenes |
+| Mini Programs | Native WeChat Mini Programs · uni-app · TDesign Mini Program · WeChat Cloud Development |
+| Backend & APIs | FastAPI · Pydantic · Node.js · Express · PHP · REST APIs · WebSockets |
+| Storage & data processing | MySQL · MongoDB / Mongoose · SQLite · SQLAlchemy · pandas |
+| AI & automation | LLM API integration · AI agents · MCP clients & servers · Tool approvals · Browser automation · Data collection workflows |
+| Cross-platform desktop | Tauri / Rust · Wails / Go · Qt / QML / C++ · Python sidecars |
+| Embedded & electronics | ESP32 · ESP-IDF · Arduino · BLE · I2C · E-paper displays · KiCad |
+| UAV & telemetry | ArduPilot · QGroundControl · MAVLink · Ground-control interfaces · Flight-log analysis |
+| Testing & delivery | XCTest · Swift Testing · pytest · Vitest · Playwright · Git · CMake · Nginx · Shell scripting |
+| Localization & content | i18next · vue-i18n · Apple String Catalogs · Typecho · VitePress |
+
+## Things I keep coming back to
+
+- **Space & sci-fi worlds.** Planets, orbital views, cinematic openings, and little interactive worlds. Sometimes a personal website turns into a space station. Sometimes it needs a boss fight.
+- **Things that fly — and the electronics around them.** Flight controllers, telemetry, ground stations, ESP32 boards, and e-paper displays. I like projects where software meets something physical.
+- **Music & home tinkering.** A well-kept music library, good audio, a NAS that serves it all, and the occasional Home Assistant experiment.
+- **Tools for everyday life.** Time, habits, activity, and community workflows. Small bits of friction have a way of becoming my next project.
+- **Interfaces that feel right.** Native interactions, thoughtful motion, readable layouts, and that one stubborn pixel of padding. Yes, I'm still adjusting it.
+- **Open source & useful AI.** Contributing improvements upstream and connecting models to tools that can actually get things done.
+
+## How I like to build
+
+Start with something useful. Make the whole flow work. Test the awkward cases. Then come back for the details — the loading state, the translation, the animation, the recovery path.
+
+I care about local storage, clear permissions, and software that earns its place in everyday life.
 
 ---
 
