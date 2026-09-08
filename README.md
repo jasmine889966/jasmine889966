@@ -1,4 +1,4 @@
-# Hi, I'm MaLin · jasmine
+# Hey, I'm jasmine.
 
 **Exploring the universe. Creating with code.**
 
