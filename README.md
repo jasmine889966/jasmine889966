@@ -1,53 +1,66 @@
+[![jasmine's lab — code, circuits and cosmic side quests](assets/lab-banner.svg)](https://www.marin9090.cn/)
+
 # Hey, I'm jasmine.
 
-**Exploring the universe. Creating with code.**
+**Software tinkerer. Hardware nerd. Collector of increasingly complicated side quests.**
 
-I build apps, web experiences, AI tools, and things with circuit boards. Creator of **Tide**, contributor to **OpenWorker**, and occasionally your code's resident bug assassin.
+I build native apps, web experiences, AI tools, and things with circuit boards. Somewhere between a SwiftUI view, a Python script, an ESP32, and a shader, another idea usually happens.
 
-Usually trimming pixels and tweaking `padding`. When the logs turn red: terminal open, sleeves up, find the cause. The plan is to finish the project and kick back — until the next idea shows up.
+Creator of **[Tide](https://tide.marin9090.cn/)** · Contributor to **[OpenWorker](https://github.com/andrewyng/openworker)** · Keeper of **[this small corner of the universe](https://www.marin9090.cn/)**
 
-[Website](https://www.marin9090.cn/) · [Journal](https://www.marin9090.cn/blog/) · [Email](mailto:marin9090@foxmail.com)
+[Website](https://www.marin9090.cn/) · [Journal](https://www.marin9090.cn/blog/) · [Email](mailto:marin9090@foxmail.com) · [Pull requests](https://github.com/andrewyng/openworker/pulls?q=is%3Apr+author%3Ajasmine889966)
 
-## Selected work
+```text
+jasmine@lab:~$ cat interests.conf
 
-### [Tide](https://tide.marin9090.cn/)
+interfaces   = native apps, thoughtful motion, one last pixel of padding
+intelligence = agents, local models, tools that do something useful
+hardware     = ESP32, e-paper, circuits, UAVs, telemetry
+worlds       = space, shaders, 3D scenes, cinematic side quests
+home         = music, NAS, automation, small quality-of-life upgrades
+exit_plan    = finish this project, then relax
+known_issue  = the next project already exists
+```
 
-An iOS app for countdowns, elapsed time, subscription renewals, and habits. Local storage by default, with optional iCloud sync.
+Usually trimming pixels and tweaking `padding`. Occasionally, your code's resident bug assassin. If the logs turn red at midnight: terminal open, sleeves up, find the cause. My brain may forget yesterday's code. My hands and cache tend to remember.
 
-[Explore Tide](https://tide.marin9090.cn/) · [App Store](https://apps.apple.com/app/id6777127402) · [TestFlight](https://testflight.apple.com/join/HV4ZBrjR)
+## 🚀 Things I've built
 
-### [DeepSeek Monitor](https://github.com/jasmine889966/DeepSeekMonitor)
+### Tide · Time, with a little more meaning
 
-A native macOS menu bar and desktop app for DeepSeek balance, token usage, costs, service status, and local alerts.
+An iOS app for countdowns, elapsed time, subscription renewals, and habits. Built around native interactions, local storage, and optional iCloud sync.
 
-[Source & documentation](https://github.com/jasmine889966/DeepSeekMonitor)
+`Swift` `SwiftUI` `SwiftData` `WidgetKit` `ActivityKit` `CloudKit`
 
-### [My corner of the universe](https://www.marin9090.cn/)
+[Explore the app](https://tide.marin9090.cn/) · [App Store](https://apps.apple.com/app/id6777127402) · [TestFlight](https://testflight.apple.com/join/HV4ZBrjR)
 
-A personal website and playground for Three.js, custom shaders, space scenes, and interactive worlds. Where the side projects get side projects.
+### DeepSeek Monitor · Keep an eye on the tokens
 
-[Visit](https://www.marin9090.cn/) · [Earth explorer](https://www.marin9090.cn/explore/earth/) · [Moonlit City](https://www.marin9090.cn/explore/moonlit-city/)
+A native macOS menu bar and desktop app for DeepSeek balance, token usage, costs, service status, and local alerts. For the part of the AI experiment where you wonder where the tokens went.
 
-## Open source
+`Swift` `SwiftUI` `AppKit` `Swift Charts` `macOS`
 
-I contribute to [OpenWorker](https://github.com/andrewyng/openworker), improving multilingual support and the experience of using AI tools.
+[Source, screenshots & documentation](https://github.com/jasmine889966/DeepSeekMonitor)
 
-**Merged:** [English & Simplified Chinese GUI internationalization · #127](https://github.com/andrewyng/openworker/pull/127)  
-[Browse my contributions](https://github.com/andrewyng/openworker/pulls?q=is%3Apr+author%3Ajasmine889966)
+### My corner of the universe · A website with side quests
 
-## Tech stack
+A personal website that grew planets, orbital views, custom shaders, cinematic scenes, and interactive worlds. Three.js is a dangerous thing to give someone who was only going to make a landing page.
 
-Across my projects, I work with:
+`TypeScript` `Three.js` `GLSL` `Vite` `Typecho`
 
-- **Apps & interfaces:** Swift / SwiftUI, TypeScript, Vue, React, and WeChat Mini Programs.
-- **Services & AI:** Python, FastAPI, Node.js, PHP, databases, AI agents, and MCP.
-- **Desktop & devices:** Tauri / Rust, Wails / Go, Qt / C++, ESP32, and UAV telemetry.
-- **Design & graphics:** Figma, Affinity Designer, Three.js, GLSL, and data visualization.
+[Enter the site](https://www.marin9090.cn/) · [Explore Earth](https://www.marin9090.cn/explore/earth/) · [Visit Moonlit City](https://www.marin9090.cn/explore/moonlit-city/) · [Read the journal](https://www.marin9090.cn/blog/)
 
-<details>
-<summary><strong>Explore the full toolbox</strong> — frameworks, integrations, and engineering tools</summary>
+## 🧩 Open source, with the sleeves rolled up
 
-Technologies I use across projects; the mix depends on what I'm building.
+I contribute to [OpenWorker](https://github.com/andrewyng/openworker), working on multilingual interfaces and the experience of using AI tools.
+
+**Merged upstream:** [English & Simplified Chinese GUI internationalization — #127](https://github.com/andrewyng/openworker/pull/127).
+
+My submitted PRs also cover approval intent analysis, connector work, model compatibility, and language-aware session titles. [Follow the individual PRs for their current status.](https://github.com/andrewyng/openworker/pulls?q=is%3Apr+author%3Ajasmine889966)
+
+## 🛠 The toolbox
+
+Different projects call for different tools. This is the working collection: from Apple frameworks and web interfaces to firmware, telemetry, and 3D animation.
 
 | Area | Technologies & tools |
 | --- | --- |
@@ -57,6 +70,7 @@ Technologies I use across projects; the mix depends on what I'm building.
 | Web interfaces | Vue · React · Next.js · Vite · Pinia · Tailwind CSS · TDesign · Ant Design |
 | Design & visual thinking | Figma · Design tokens · Affinity Designer · draw.io · Flow diagrams |
 | Graphics & visualization | Three.js · WebGL · GLSL shaders · ECharts · Swift Charts · Interactive 3D scenes |
+| 3D & technical animation | Blender · Python / bpy · CAD-to-Blender workflows · Materials · Keyframe animation · Exploded assembly visualization |
 | Mini Programs | Native WeChat Mini Programs · uni-app · TDesign Mini Program · WeChat Cloud Development |
 | Backend & APIs | FastAPI · Pydantic · Node.js · Express · PHP · REST APIs · WebSockets |
 | Storage & data processing | MySQL · MongoDB / Mongoose · SQLite · SQLAlchemy · pandas |
@@ -67,32 +81,56 @@ Technologies I use across projects; the mix depends on what I'm building.
 | Testing & delivery | XCTest · Swift Testing · pytest · Vitest · Playwright · Git · CMake · Nginx · Shell scripting |
 | Localization & content | i18next · vue-i18n · Apple String Catalogs · Typecho · VitePress |
 
-</details>
+## 🔬 Between the code and the workbench
 
-## Beyond the code
+### From CAD to moving parts
 
-- **Space & sci-fi:** orbital views, cinematic scenes, and worlds you can wander through. A personal website can absolutely need a space station.
-- **Hardware & making:** UAVs, telemetry, ESP32, e-paper, and an expanding curiosity about 3D models and printing.
-- **Music & home tinkering:** a well-kept music library, good audio, NAS storage, and the occasional Home Assistant experiment.
-- **Everyday tools & thoughtful design:** time, habits, community workflows, native interactions, and that last pixel of padding.
+I work with CAD assets and Blender scenes, using Python to drive materials, keyframes, and exploded assembly animations. Turning an object into a visual explanation is its own kind of engineering.
 
-<details>
-<summary><strong>On my workbench</strong> — tools and ideas I'm exploring</summary>
+`Blender` `Python / bpy` `STEP` `STL` `3MF` `Technical visualization`
 
-Alongside my development stack, I'm exploring tools for making things beyond the screen:
+Shapr3D, FreeCAD, and Bambu Studio are also in my exploration toolkit for modeling and print preparation.
 
-- **3D & fabrication:** Blender, Shapr3D, FreeCAD, and Bambu Studio — exploring modeling and print preparation, with STL and 3MF assets in my projects.
-- **Visual design & publishing:** the Affinity suite, Icon Composer, and tldraw — room to explore graphics, app icons, layouts, and visual ideas.
-- **Local AI & coding tools:** LM Studio and a changing mix of AI coding assistants — exploring how local models and agent tools fit into a practical development workflow.
+### Small boards, real-world feedback
 
-</details>
+ESP32 experiments, e-paper displays, BLE, I2C, flight telemetry, and ground-control interfaces. I like the point where a change in code turns into a change on a screen, a board, or a device.
 
-## How I build
+`ESP-IDF` `Arduino` `C / C++` `MAVLink` `ArduPilot` `QGroundControl`
 
-Make something useful. Get the whole flow working. Test the awkward cases. Then polish the loading states, translations, animations, and recovery paths.
+### AI that gets out of the chat box
 
-I care about local storage, clear permissions, and tools that make everyday life a little easier.
+Agents, MCP integrations, tool permissions, browser automation, and local-model experiments. I'm interested in the plumbing as much as the prompt: how a model reaches a tool, gets permission, handles failure, and completes a useful task.
+
+`Python` `MCP` `LLM APIs` `LM Studio` `AI coding tools`
+
+### Pixels, diagrams, and the last 1%
+
+Figma for interface structure and design tokens. Affinity Designer for visual assets. draw.io for explaining how a workflow fits together. The Affinity suite, Icon Composer, and tldraw leave plenty more room to experiment.
+
+The tiny details count: empty states, translations, loading behavior, keyboard interactions, and the difference between an animation that moves and one that feels right.
+
+## 🪐 Off-duty, still tinkering
+
+| Rabbit hole | Why I keep going back |
+| --- | --- |
+| Space & sci-fi | Planets, orbital views, atmospheric lighting, and worlds you can wander through. A personal website can absolutely need a space station. |
+| 3D & physical making | Models, assemblies, print preparation, electronics, and the satisfying overlap between digital and physical things. |
+| Music & audio | A well-kept music library, good sound, and a NAS that keeps the collection within reach. |
+| Home automation | Home Assistant experiments and small changes that make everyday devices a little more useful. |
+| Games & interactive worlds | Cinematic openings, little challenges, and the occasional boss fight hidden inside a side project. |
+| Everyday tools | Time, habits, activity, and community workflows. Repeated friction tends to become a project idea. |
+
+## ⚙️ How this lab runs
+
+- **Build the whole journey.** The happy path, the empty state, the failure, and the way back.
+- **Keep control visible.** Local storage where it makes sense, clear permissions, and understandable tool approvals.
+- **Test what matters.** Real interactions, meaningful edge cases, and a result you can actually use.
+- **Polish the experience.** Native behavior, good translations, thoughtful motion, and yes, the `padding`.
+- **Keep the curiosity.** There's usually another framework to explore, a board to try, or a tiny inconvenience to automate.
 
 ---
 
-Have a project or an idea that overlaps? [Say hello](mailto:marin9090@foxmail.com).
+**Got an interesting bug, a strange little device, or a side project that got out of hand?**  
+[Say hello](mailto:marin9090@foxmail.com). We'll probably have something to talk about.
+
+*Exploring the universe. Creating with code.*
