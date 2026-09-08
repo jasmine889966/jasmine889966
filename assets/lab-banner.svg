@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">jasmine's lab — code, circuits and cosmic side quests</title><desc id="desc">A dark orbital blueprint with a terminal greeting and cyan circuit traces.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset="1" stop-color="#15152f"/></linearGradient>
+ <linearGradient id="planet" x2="1" y2="1"><stop stop-color="#31d8df"/><stop offset=".5" stop-color="#4f62a9"/><stop offset="1" stop-color="#111b38"/></linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#8ccbf0" stroke-opacity=".07"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+ <g fill="#c2dafa" opacity=".6"><circle cx="760" cy="48" r="1.8"/><circle cx="1085" cy="65" r="2"/><circle cx="1120" cy="261" r="1.5"/><circle cx="810" cy="301" r="2"/><circle cx="721" cy="240" r="1"/><circle cx="1011" cy="321" r="1.5"/></g>
+ <g transform="translate(945 168)">
+  <circle r="125" fill="none" stroke="#50cbd5" stroke-opacity=".18" stroke-dasharray="3 9"/>
+  <circle r="98" fill="none" stroke="#7984b7" stroke-opacity=".25"/>
+  <circle r="71" fill="url(#planet)"/>
+  <ellipse rx="155" ry="39" transform="rotate(-27)" fill="none" stroke="#80eee6" stroke-width="2" stroke-opacity=".75"/>
+  <path d="M-61-24Q0 0 60-28M-67 14Q0 39 61 15M-30-63Q-55 0-29 63M17-69Q-6 0 23 65" fill="none" stroke="#b5f7fa" stroke-opacity=".25"/>
+  <circle cx="133" cy="-70" r="5" fill="#91fff0"/>
+ </g>
+ <path d="M760 322H880l22-22h84m-246-10h55l20-20h20" fill="none" stroke="#6fe9d0" stroke-opacity=".4"/>
+ <g fill="#6fe9d0"><circle cx="986" cy="300" r="3"/><circle cx="835" cy="270" r="3"/></g>
+ <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <text x="48" y="51" fill="#71e6d0" font-size="14" letter-spacing="3">PERSONAL LAB / OPEN ENDED CURIOSITY</text>
+  <text x="48" y="130" fill="#f0f6ff" font-size="62" font-weight="700">jasmine<tspan fill="#71e6d0">_</tspan></text>
+  <text x="50" y="173" fill="#b4c4df" font-size="21">Code, circuits &amp; cosmic side quests.</text>
+  <text x="50" y="223" fill="#71e6d0" font-size="15">$ ./build-something-interesting</text>
+  <text x="50" y="251" fill="#94a9c8" font-size="14">Apps on screen. Ideas off the breadboard.</text>
+  <g font-size="12" letter-spacing="1"><text x="50" y="317" fill="#9eaece">NATIVE APPS</text><text x="199" y="317" fill="#71e6d0">/</text><text x="227" y="317" fill="#9eaece">AI &amp; WEB</text><text x="355" y="317" fill="#71e6d0">/</text><text x="383" y="317" fill="#9eaece">EMBEDDED</text><text x="511" y="317" fill="#71e6d0">/</text><text x="539" y="317" fill="#9eaece">3D WORLDS</text></g>
+ </g>
+</g><rect x=".5" y=".5" width="1199" height="359" rx="18" fill="none" stroke="#364263"/>
+</svg>
