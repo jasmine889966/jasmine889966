@@ -2,15 +2,9 @@
 
 **Exploring the universe. Creating with code.**
 
-Usually a barber trimming bangs and tweaking `padding`. Occasionally, your code's resident bug assassin.
+I build apps, web experiences, AI tools, and things with circuit boards. Creator of **Tide**, contributor to **OpenWorker**, and occasionally your code's resident bug assassin.
 
-I build native apps, web apps, WeChat Mini Programs, and AI tools. Sometimes I reach for a soldering iron and work on ESP32 boards, circuits, and UAVs. The plan is to bring my ideas to life, then kick back — usually until the next idea shows up.
-
-My brain occasionally forgets the code I wrote. My hands and cache remember.  
-If the layout breaks, the service goes down, and the logs turn red at midnight…  
-Slippers off. Terminal open. Find the cause. Send the bugs packing.
-
-**Build useful things. Fix frustrating problems. Make the experience a little better.**
+Usually trimming pixels and tweaking `padding`. When the logs turn red: terminal open, sleeves up, find the cause. The plan is to finish the project and kick back — until the next idea shows up.
 
 [Website](https://www.marin9090.cn/) · [Journal](https://www.marin9090.cn/blog/) · [Email](mailto:marin9090@foxmail.com)
 
@@ -18,7 +12,7 @@ Slippers off. Terminal open. Find the cause. Send the bugs packing.
 
 ### [Tide](https://tide.marin9090.cn/)
 
-An iOS app for keeping track of time and everyday life — countdowns, elapsed time, subscription renewals, and habits. Local storage by default, with optional iCloud sync.
+An iOS app for countdowns, elapsed time, subscription renewals, and habits. Local storage by default, with optional iCloud sync.
 
 [Explore Tide](https://tide.marin9090.cn/) · [App Store](https://apps.apple.com/app/id6777127402) · [TestFlight](https://testflight.apple.com/join/HV4ZBrjR)
 
@@ -28,16 +22,32 @@ A native macOS menu bar and desktop app for DeepSeek balance, token usage, costs
 
 [Source & documentation](https://github.com/jasmine889966/DeepSeekMonitor)
 
+### [My corner of the universe](https://www.marin9090.cn/)
+
+A personal website and playground for Three.js, custom shaders, space scenes, and interactive worlds. Where the side projects get side projects.
+
+[Visit](https://www.marin9090.cn/) · [Earth explorer](https://www.marin9090.cn/explore/earth/) · [Moonlit City](https://www.marin9090.cn/explore/moonlit-city/)
+
 ## Open source
 
-I contribute to [OpenWorker](https://github.com/andrewyng/openworker), working on multilingual support and the experience of using AI tools.
+I contribute to [OpenWorker](https://github.com/andrewyng/openworker), improving multilingual support and the experience of using AI tools.
 
-- **Merged:** [English & Simplified Chinese GUI internationalization · #127](https://github.com/andrewyng/openworker/pull/127)
-- **More contributions:** [Browse my pull requests](https://github.com/andrewyng/openworker/pulls?q=is%3Apr+author%3Ajasmine889966)
+**Merged:** [English & Simplified Chinese GUI internationalization · #127](https://github.com/andrewyng/openworker/pull/127)  
+[Browse my contributions](https://github.com/andrewyng/openworker/pulls?q=is%3Apr+author%3Ajasmine889966)
 
 ## Tech stack
 
-My toolbox spans apps, services, interactive worlds, and physical devices. These are technologies I use across projects — the mix depends on what I'm building.
+Across my projects, I work with:
+
+- **Apps & interfaces:** Swift / SwiftUI, TypeScript, Vue, React, and WeChat Mini Programs.
+- **Services & AI:** Python, FastAPI, Node.js, PHP, databases, AI agents, and MCP.
+- **Desktop & devices:** Tauri / Rust, Wails / Go, Qt / C++, ESP32, and UAV telemetry.
+- **Design & graphics:** Figma, Affinity Designer, Three.js, GLSL, and data visualization.
+
+<details>
+<summary><strong>Explore the full toolbox</strong> — frameworks, integrations, and engineering tools</summary>
+
+Technologies I use across projects; the mix depends on what I'm building.
 
 | Area | Technologies & tools |
 | --- | --- |
@@ -57,16 +67,17 @@ My toolbox spans apps, services, interactive worlds, and physical devices. These
 | Testing & delivery | XCTest · Swift Testing · pytest · Vitest · Playwright · Git · CMake · Nginx · Shell scripting |
 | Localization & content | i18next · vue-i18n · Apple String Catalogs · Typecho · VitePress |
 
-## Things I keep coming back to
+</details>
 
-- **Space & sci-fi worlds.** Planets, orbital views, cinematic openings, and little interactive worlds. Sometimes a personal website turns into a space station. Sometimes it needs a boss fight.
-- **Things that fly — and the electronics around them.** Flight controllers, telemetry, ground stations, ESP32 boards, and e-paper displays. I like projects where software meets something physical. That curiosity extends to 3D models and print preparation, too.
-- **Music & home tinkering.** A well-kept music library, good audio, a NAS that serves it all, and the occasional Home Assistant experiment.
-- **Tools for everyday life.** Time, habits, activity, and community workflows. Small bits of friction have a way of becoming my next project.
-- **Interfaces that feel right.** Native interactions, thoughtful motion, readable layouts, and that one stubborn pixel of padding. Yes, I'm still adjusting it.
-- **Open source & useful AI.** Contributing improvements upstream and connecting models to tools that can actually get things done.
+## Beyond the code
 
-## On my workbench
+- **Space & sci-fi:** orbital views, cinematic scenes, and worlds you can wander through. A personal website can absolutely need a space station.
+- **Hardware & making:** UAVs, telemetry, ESP32, e-paper, and an expanding curiosity about 3D models and printing.
+- **Music & home tinkering:** a well-kept music library, good audio, NAS storage, and the occasional Home Assistant experiment.
+- **Everyday tools & thoughtful design:** time, habits, community workflows, native interactions, and that last pixel of padding.
+
+<details>
+<summary><strong>On my workbench</strong> — tools and ideas I'm exploring</summary>
 
 Alongside my development stack, I'm exploring tools for making things beyond the screen:
 
@@ -74,12 +85,14 @@ Alongside my development stack, I'm exploring tools for making things beyond the
 - **Visual design & publishing:** the Affinity suite, Icon Composer, and tldraw — room to explore graphics, app icons, layouts, and visual ideas.
 - **Local AI & coding tools:** LM Studio and a changing mix of AI coding assistants — exploring how local models and agent tools fit into a practical development workflow.
 
-## How I like to build
+</details>
 
-Start with something useful. Make the whole flow work. Test the awkward cases. Then come back for the details — the loading state, the translation, the animation, the recovery path.
+## How I build
 
-I care about local storage, clear permissions, and software that earns its place in everyday life.
+Make something useful. Get the whole flow working. Test the awkward cases. Then polish the loading states, translations, animations, and recovery paths.
+
+I care about local storage, clear permissions, and tools that make everyday life a little easier.
 
 ---
 
-More projects, experiments, and notes at [marin9090.cn](https://www.marin9090.cn/).
+Have a project or an idea that overlaps? [Say hello](mailto:marin9090@foxmail.com).
