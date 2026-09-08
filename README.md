@@ -3,9 +3,17 @@
 **在宇宙中探索，在代码里创造。**  
 Exploring the universe. Creating with code.
 
-我做跨领域的软件与硬件开发：从 iOS / macOS 原生应用、Web 与微信小程序，到 AI 工具、业务系统、嵌入式与无人机相关开发，也持续参与开源。
+平时是个剪剪刘海、调调 `padding` 的发型师，偶尔客串你这段代码的首席刺客。
 
-I work across software and hardware: native iOS / macOS apps, web apps and WeChat Mini Programs, AI tools, business systems, embedded devices, and UAV development. I also contribute to open source.
+日常出没于 SwiftUI、Web、小程序和 AI 工具之间，也会拿起烙铁，折腾 ESP32、电路板与无人机。最大的梦想是把想法一个个做出来，然后安心躺平——通常躺到下一个灵感出现为止。
+
+过去写过的代码，脑子偶尔忘了，手和缓存还记得。  
+要是哪天半夜，界面歪了、服务挂了、日志红了……  
+拖鞋一甩，终端一开。先把问题找出来，再把 bug 一个个送走。
+
+**写点有用的东西，修点恼人的问题。顺手，把体验打磨好。**
+
+Part-time interface barber, occasional bug assassin. I build across native apps, the web, AI tools, and embedded hardware. The plan is to bring ideas to life, then take a break — until the next idea shows up.
 
 [个人网站 · Website](https://www.marin9090.cn/) · [随记 · Journal](https://www.marin9090.cn/blog/) · [联系我 · Email](mailto:marin9090@foxmail.com)
 
