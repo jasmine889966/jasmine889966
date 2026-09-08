@@ -45,6 +45,7 @@ My toolbox spans apps, services, interactive worlds, and physical devices. These
 | Apple apps & persistence | SwiftUI · UIKit / AppKit interop · SwiftData · CloudKit · Swift Package Manager |
 | Apple system integrations | HealthKit · WidgetKit · ActivityKit / Live Activities · App Intents · AlarmKit · WeatherKit · MapKit · Core Location · AVFoundation |
 | Web interfaces | Vue · React · Next.js · Vite · Pinia · Tailwind CSS · TDesign · Ant Design |
+| Design & visual thinking | Figma · Design tokens · Affinity Designer · draw.io · Flow diagrams |
 | Graphics & visualization | Three.js · WebGL · GLSL shaders · ECharts · Swift Charts · Interactive 3D scenes |
 | Mini Programs | Native WeChat Mini Programs · uni-app · TDesign Mini Program · WeChat Cloud Development |
 | Backend & APIs | FastAPI · Pydantic · Node.js · Express · PHP · REST APIs · WebSockets |
@@ -59,11 +60,19 @@ My toolbox spans apps, services, interactive worlds, and physical devices. These
 ## Things I keep coming back to
 
 - **Space & sci-fi worlds.** Planets, orbital views, cinematic openings, and little interactive worlds. Sometimes a personal website turns into a space station. Sometimes it needs a boss fight.
-- **Things that fly — and the electronics around them.** Flight controllers, telemetry, ground stations, ESP32 boards, and e-paper displays. I like projects where software meets something physical.
+- **Things that fly — and the electronics around them.** Flight controllers, telemetry, ground stations, ESP32 boards, and e-paper displays. I like projects where software meets something physical. That curiosity extends to 3D models and print preparation, too.
 - **Music & home tinkering.** A well-kept music library, good audio, a NAS that serves it all, and the occasional Home Assistant experiment.
 - **Tools for everyday life.** Time, habits, activity, and community workflows. Small bits of friction have a way of becoming my next project.
 - **Interfaces that feel right.** Native interactions, thoughtful motion, readable layouts, and that one stubborn pixel of padding. Yes, I'm still adjusting it.
 - **Open source & useful AI.** Contributing improvements upstream and connecting models to tools that can actually get things done.
+
+## On my workbench
+
+Alongside my development stack, I'm exploring tools for making things beyond the screen:
+
+- **3D & fabrication:** Blender, Shapr3D, FreeCAD, and Bambu Studio — exploring modeling and print preparation, with STL and 3MF assets in my projects.
+- **Visual design & publishing:** the Affinity suite, Icon Composer, and tldraw — room to explore graphics, app icons, layouts, and visual ideas.
+- **Local AI & coding tools:** LM Studio and a changing mix of AI coding assistants — exploring how local models and agent tools fit into a practical development workflow.
 
 ## How I like to build
 
